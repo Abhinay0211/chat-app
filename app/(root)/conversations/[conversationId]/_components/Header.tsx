@@ -1,4 +1,3 @@
-
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
 import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
@@ -21,9 +20,10 @@ type Props = {
     destructive: boolean;
     onClick: () => void;
   }[];
+  setCallType: Dispatch<SetStateAction<"audio" | "video" | null>>;
 };
 
-const Header = ({ imageUrl, name, options,}: Props) => {
+const Header = ({ imageUrl, name, options, setCallType }: Props) => {
   return (
     <Card className="w-full flex rounded-lg items-center p-2 justify-between">
       <div className="flex items-center gap-2">
@@ -37,7 +37,21 @@ const Header = ({ imageUrl, name, options,}: Props) => {
         <h2 className="font-semibold">{name}</h2>
       </div>
       <div className="flex gap-2">
-      {options ? (
+        <Button
+          variant="secondary"
+          size="icon"
+          onClick={() => setCallType("audio")}
+        >
+          <Phone />
+        </Button>
+        <Button
+          variant="secondary"
+          size="icon"
+          onClick={() => setCallType("video")}
+        >
+          <Video />
+        </Button>
+        {options ? (
           <DropdownMenu>
             <DropdownMenuTrigger>
               <Button size="icon" variant="secondary">
@@ -67,4 +81,3 @@ const Header = ({ imageUrl, name, options,}: Props) => {
 };
 
 export default Header;
-
