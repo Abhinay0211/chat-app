@@ -2,7 +2,8 @@
 ```
  Name: Upamaka S V B S B Abhinay
  Roll Number: CS22BT059
- College: IIT Dharwad
+ University: IIT Dharwad
+ Department: Computer Science Engineering
  Contact Number: 8639554571 
 ```
 
