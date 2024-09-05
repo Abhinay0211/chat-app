@@ -7,7 +7,15 @@
  Contact Number: 8639554571 
 ```
 
-
+## Features and Technologies:
+```
+  1) Real Time chat with both User to User and Group Chat
+  2) Video and Audio Calls using LiveKit.
+  3) Supports both Pc and Mobile Browsers.
+  4) Can send files with Images and Videos preview.
+  5) Theme Switching between Light and Dark Mode.
+  6) Emojis
+```
 ## Getting Started
 
 First, install the required dependencies using Node Package Manager:
