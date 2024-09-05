@@ -18,7 +18,13 @@
 ```
 ## Getting Started
 
-First, install the required dependencies using Node Package Manager:
+Clone the repository:
+```bash
+git clone https://github.com/Abhinay0211/chat-app
+cd chat-app
+```
+
+Install the required dependencies using Node Package Manager:
 ```bash
 npm install
 ```
@@ -27,12 +33,6 @@ Next, run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 Finally, you can edit the environment variables inside file named .env.local.
 
