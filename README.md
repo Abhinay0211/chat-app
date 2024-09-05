@@ -22,5 +22,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 
 ## Deployment Demo on Vercel
-[Real Time Chat App URL](https://realtime-chat-app-ruby-eight.vercel.app/)
+Deployed using Vercel for Next JS.
+OPEN [https://realtime-chat-app-ruby-eight.vercel.app/](https://realtime-chat-app-ruby-eight.vercel.app/) with your browser to use the deployed app.
 
