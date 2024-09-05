@@ -38,4 +38,5 @@ Deployed using Vercel for Next JS.
 OPEN [https://realtime-chat-app-ruby-eight.vercel.app/](https://realtime-chat-app-ruby-eight.vercel.app/) with your browser to use the deployed app.
 
 ## Instructions for Using the App:
+![image](https://github.com/user-attachments/assets/85fc2892-fb43-45dc-a500-c8371be00266)
 
