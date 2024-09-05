@@ -17,7 +17,9 @@ pnpm dev
 # or
 bun dev
 ```
-Finally, create a file named .env.local inside the 
+Finally, you can edit the environment variables inside file named .env.local.
+
+Or you can use the provided variables directly.
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
