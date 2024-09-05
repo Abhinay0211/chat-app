@@ -38,5 +38,13 @@ Deployed using Vercel for Next JS.
 OPEN [https://realtime-chat-app-ruby-eight.vercel.app/](https://realtime-chat-app-ruby-eight.vercel.app/) with your browser to use the deployed app.
 
 ## Instructions for Using the App:
+1) Click on the sign in with google button. We use Clerk Auth for sign in.
 ![image](https://github.com/user-attachments/assets/85fc2892-fb43-45dc-a500-c8371be00266)
+2) Add a friend using the Add Friend Button in Friends Section:
+![image](https://github.com/user-attachments/assets/54db91cc-7902-4ab9-a7cb-bd6681c1184a)
+3) Enter your friend's email address and send a friend request:
+   Make sure your friend is also a user of this app(signed in to the app atleast once)
+   ![image](https://github.com/user-attachments/assets/c2b1221d-1e50-4fa7-8281-25afa2abd99e)
+
+
 
