@@ -1,8 +1,8 @@
-###Author Details:
-##Name: Upamaka S V B S B Abhinay
-##Roll Number: CS22BT059
-##College: IIT Dharwad
-##Contact Number: 8639554571
+### Author Details:
+## Name: Upamaka S V B S B Abhinay
+## Roll Number: CS22BT059
+## College: IIT Dharwad
+## Contact Number: 8639554571
 
 
 
