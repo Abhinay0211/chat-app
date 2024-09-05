@@ -45,6 +45,23 @@ OPEN [https://realtime-chat-app-ruby-eight.vercel.app/](https://realtime-chat-ap
 3) Enter your friend's email address and send a friend request:
    Make sure your friend is also a user of this app(signed in to the app atleast once)
    ![image](https://github.com/user-attachments/assets/c2b1221d-1e50-4fa7-8281-25afa2abd99e)
+   This is how your friend will recieve a friend request:
+   ![image](https://github.com/user-attachments/assets/b0152473-6b6e-4376-835c-19f859a124a2)
+4) Starting a conversation:
+   Once you added friend, go to conversations section. There u will be able to see his/her profile:
+   ![image](https://github.com/user-attachments/assets/ea45c112-0515-4859-9e5e-fb39155ea3d9)
+   Click on that and you can start chatting, sending GIFs, Make Audio-Video calls, send files and much more.
+   ![image](https://github.com/user-attachments/assets/b708f0a8-1e56-4ffe-bc86-d2d6f3954915)
+5) Creating Group Chat:
+   Enter the plus icon in conversations to start creating group chat:
+   ![image](https://github.com/user-attachments/assets/6cc4b52b-fb31-405b-ad81-aae6e898a0e8)
+   You can name the group and select your friends whom u want to be inside the group:
+   ![image](https://github.com/user-attachments/assets/ac9279b9-418b-4d52-9ea9-5453407664d2)
+
+HAPPY CHATTING!!!
+
+
+
 
 
 
