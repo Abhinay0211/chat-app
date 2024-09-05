@@ -24,7 +24,7 @@ git clone https://github.com/Abhinay0211/chat-app
 cd chat-app
 ```
 
-Install the required dependencies using Node Package Manager:
+Install the required dependencies using Node Package Manager(make sure you have npm and Node.js Installed):
 ```bash
 npm install
 ```
