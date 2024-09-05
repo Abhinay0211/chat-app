@@ -17,6 +17,7 @@ pnpm dev
 # or
 bun dev
 ```
+Finally, create a file named .env.local inside the 
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
